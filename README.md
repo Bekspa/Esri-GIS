@@ -1,0 +1,2 @@
+# Esri-GIS
+GeoMaps creation. The documentation shows how to configure geo apps using powerful APIs and SDKs to modify the code inside. Moreover, it addresses the configuration of web app templates and geo maps based on extended web apps using ArcGIS API for JavaScript, plus resources such as ArcGIS Tutorials, documentation, and sample code.   This material belongs entirely to Esri's do-it-yourself MOOC Materials. It is available at Esri´s massive open online courses (MOOCs).  Source:  https://www.esri.com/training/catalog/57660ed7bb54adb30c9454a3/do-it-yourself-geo-apps/
